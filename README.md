@@ -10,7 +10,7 @@
 2. __Is it possible to realize this?__ [a-lt-a](https://github.com/Gokert/Frontend-homework-rubaxa/blob/main/tasks/a-lt-a.js)
     ```
     var a;
-s
+
     console.log(a == a); // true
     console.log(a < a); // true
     ```
@@ -47,3 +47,4 @@ s
 
     console.log(rle('AVVVBBBVVXDHJFFFFDDDDDDHAAAAJJJDDSLSSSDDDD'));
     ```
+    
